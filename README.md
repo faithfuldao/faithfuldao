@@ -22,7 +22,7 @@ I specialize in building scalable applications. Currently, I'm focused on **Vera
 ## 🏗️ Current Project: Veralens
 **Veralens** is a Chrome Extension designed to simplify the job search.
 * **Architecture:** Containerized FastAPI backend with a persistent AWS RDS PostgreSQL database.
-* **Habileté (ㅎ):** Implemented secure VPC networking and IP-restricted security groups to ensure data integrity.
+* **Habileté :** Implemented secure VPC networking and IP-restricted security groups to ensure data integrity.
 * **Status:** Connected & Scaling 🚀
 
 ---
