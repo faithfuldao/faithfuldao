@@ -11,9 +11,10 @@ I specialize in building scalable applications. Currently, I'm focused on **Vera
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), SQL |
-| **Backend** | FastAPI, Uvicorn |
-| **Cloud/DevOps** | **AWS (RDS, VPC)**, **Docker**, Docker Compose |
+| **Languages** | Python, JavaScript (ES6+), C#, SQL |
+| **WebDev** | ReactJS, NextJS |
+| **Backend** | FastAPI, Uvicorn, Node, Entity, GraphQL, Neo4J |
+| **Cloud/DevOps** | AWS (RDS, VPC), Docker, Docker Compose |
 | **Automation** | Playwright, Web Scraping |
 | **Database** | PostgreSQL, MySQL |
 
